@@ -19,4 +19,5 @@ Path : ./taskmanagement-api/instance/tasks.db
 ```
 
 ## Display
-您可以查看我們的示範影片：[下載示範影片](./Diagram/video.mov)
+> Web Display
+![替代文字](./Diagram/Web.png)
