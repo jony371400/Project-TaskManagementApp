@@ -19,5 +19,7 @@ Path : ./taskmanagement-api/instance/tasks.db
 ```
 
 ## Display
-> Web Display
-![替代文字](./Diagram/Web.png)
+> Web
+```
+![](./Diagram/Web.png)
+```
