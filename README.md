@@ -3,7 +3,7 @@
 ### Frontend
 > Intro
 ```
-Framework : React Native
+Framework : React & React Native 
 ```
 
 ### Backend
@@ -15,5 +15,8 @@ Framework : Flask
 ### Database
 > SQLite
 ```
-Path : ./TaskManagementApp_Backend/instance/tasks.db
+Path : ./taskmanagement-api/instance/tasks.db
 ```
+
+## Display
+您可以查看我們的示範影片：[下載示範影片](./Diagram/video.mov)
